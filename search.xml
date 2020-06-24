@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>这是我的第二篇文章</title>
+    <url>/2020/06/03/second/</url>
+    <content><![CDATA[<blockquote>
+<p> 今天是2020/6/3 日子正在逼迫，让人感觉有点压抑。 不知道自己在干啥，自己想要啥，自己敢面对啥，还是被迫面对。 </p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>心得</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>删除牛流氓软件</title>
+    <url>/2020/06/04/%E5%88%A0%E9%99%A4%E7%89%9B%E6%B5%81%E6%B0%93%E8%BD%AF%E4%BB%B6/</url>
+    <content><![CDATA[<h3 id="一个不那么重要的前言"><a href="#一个不那么重要的前言" class="headerlink" title="一个不那么重要的前言"></a>一个不那么重要的前言</h3><blockquote>
+<p>一不小心安装软件的时候遇到了“全家桶”服务，好家伙。cmd 强制删除、粉碎软件、更改文件权限各种方法都不行。搞了一会还是给干掉了，直接上方法</p>
+</blockquote>
+<a id="more"></a>
+
+<h3 id="一、进入安全模式"><a href="#一、进入安全模式" class="headerlink" title="一、进入安全模式"></a>一、进入安全模式</h3><h6 id="1-按下键盘快捷键Win-R打开运行窗口，输入“msconfig”，然后点击确定。下图："><a href="#1-按下键盘快捷键Win-R打开运行窗口，输入“msconfig”，然后点击确定。下图：" class="headerlink" title="1. 按下键盘快捷键Win+R打开运行窗口，输入“msconfig”，然后点击确定。下图："></a>1. 按下键盘快捷键Win+R打开运行窗口，输入“msconfig”，然后点击确定。下图：</h6><p><img src="https://img-blog.csdnimg.cn/20200429172229854.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FsaWVuX19DaGFv,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<h6 id="2-打开系统配置界面后，点击“引导”选项卡，然后勾选“安全引导”，接着点击确定按钮。下图："><a href="#2-打开系统配置界面后，点击“引导”选项卡，然后勾选“安全引导”，接着点击确定按钮。下图：" class="headerlink" title="2. 打开系统配置界面后，点击“引导”选项卡，然后勾选“安全引导”，接着点击确定按钮。下图："></a>2. 打开系统配置界面后，点击“引导”选项卡，然后勾选“安全引导”，接着点击确定按钮。下图：</h6><p><img src="https://img-blog.csdnimg.cn/20200429172340153.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FsaWVuX19DaGFv,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<h6 id="3-接着弹出重新启动的提示窗口，点击“重新启动”即可进入“安全模式”。"><a href="#3-接着弹出重新启动的提示窗口，点击“重新启动”即可进入“安全模式”。" class="headerlink" title="3. 接着弹出重新启动的提示窗口，点击“重新启动”即可进入“安全模式”。"></a>3. 接着弹出重新启动的提示窗口，点击“重新启动”即可进入“安全模式”。</h6><p><img src="https://img-blog.csdnimg.cn/20200429172453780.png" alt="在这里插入图片描述"></p>
+<h6 id="4-在安全模式下找到你要删除的文件夹，直接删除掉即可。"><a href="#4-在安全模式下找到你要删除的文件夹，直接删除掉即可。" class="headerlink" title="4. 在安全模式下找到你要删除的文件夹，直接删除掉即可。"></a>4. 在安全模式下找到你要删除的文件夹，直接删除掉即可。</h6><p><img src="https://img-blog.csdnimg.cn/20200429173026698.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FsaWVuX19DaGFv,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+<h6 id="5-如果不需要再进安全模式的话，回到系统配置的界面，点击勾选启动选择中的“正常启动”即可。"><a href="#5-如果不需要再进安全模式的话，回到系统配置的界面，点击勾选启动选择中的“正常启动”即可。" class="headerlink" title="5. 如果不需要再进安全模式的话，回到系统配置的界面，点击勾选启动选择中的“正常启动”即可。"></a>5. 如果不需要再进安全模式的话，回到系统配置的界面，点击勾选启动选择中的“正常启动”即可。<img src="https://img-blog.csdnimg.cn/20200429172556205.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FsaWVuX19DaGFv,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></h6>]]></content>
+      <tags>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello 新博客</title>
+    <url>/2020/06/01/blog/</url>
+    <content><![CDATA[<p>今天天气很不错，That’s Great!</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>App启动流程与优化</title>
+    <url>/2020/06/23/App%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E4%B8%8E%E4%BC%98%E5%8C%96/</url>
+    <content><![CDATA[<h3 id="插件化知识小结"><a href="#插件化知识小结" class="headerlink" title="插件化知识小结"></a>插件化知识小结</h3><h4 id="系统启动图"><a href="#系统启动图" class="headerlink" title="系统启动图"></a>系统启动图</h4><p><img src="https://inews.gtimg.com/newsapp_ls/0/11956438316/0" alt="系统启动图"></p>
+<a id="more"></a>
+
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="number">1</span>. 打开电源   加载引导程序 BootLoader 到 RAM </span><br><span class="line"><span class="number">2</span>. BootLoader把操作系统拉起来</span><br><span class="line"><span class="number">3</span>. Linux 内核启动开始系统设置，找到一个init.rc文件启动初始化进程</span><br><span class="line"><span class="number">4</span>. init进程初始化和启动属性服务，之后开启Zygote进程</span><br><span class="line"><span class="number">5</span>. Zygote开始创建JVM并注册JNI方法，开启SystemServer</span><br><span class="line"><span class="number">6</span>. 启动Binder线程沲和SystemServiceManager,并启动各种服务</span><br><span class="line"><span class="number">7</span>. AMS启动Launcher</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">**简化版**</span><br><span class="line">1. 按电源键 -&gt;加载引导程序 BootLoader 到 RAM </span><br><span class="line">    -&gt; 执行 BootLoader 程序启动内核 -&gt; 启动 init 进程 </span><br><span class="line">    -&gt; 启动 Zygote 和各种守护进程   -&gt;启动 System Server 服务进程开启 AMS、WMS 等 </span><br><span class="line">    -&gt; 启动 Launcher 应用进程</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="App启动图"><a href="#App启动图" class="headerlink" title="App启动图"></a>App启动图</h4><p><img src="https://pic.downk.cc/item/5eec371d14195aa594a70304.png" alt="App启动"></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="number">1</span>.点击桌面上的App，由Launch startActivity，开辟一个进程。他会通知AMS</span><br><span class="line"><span class="number">2</span>.AMS会将intent进程装在一个虚拟机的内存里面，开辟堆栈、常量值、方法区</span><br><span class="line"><span class="number">3</span>.startActivity 会帮我们把这些信息传到系统里面，系统就会告诉这个孵化器，孵化器就会孵化system server服务，去启动ActivityThread，然后把进程信息加到ActivityThread进程里面去了是带main()</span><br></pre></td></tr></table></figure>
+
+
+<h3 id="查看当前Activity信息"><a href="#查看当前Activity信息" class="headerlink" title="查看当前Activity信息"></a>查看当前Activity信息</h3><figure class="highlight cmd"><table><tr><td class="code"><pre><span class="line">adb shell dumpsys activity activities</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>视频：Lsn1_APP启动优化_2019-4-22 (jett)</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第三篇</title>
+    <url>/2020/06/04/%E7%AC%AC%E4%B8%89%E7%AF%87/</url>
+    <content><![CDATA[<p>Activity 设计模式、 启动模式</p>
+]]></content>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第四篇</title>
+    <url>/2020/06/04/%E7%AC%AC%E5%9B%9B%E7%AF%87/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>OkHttp资料</title>
+    <url>/2020/06/04/OkHttp%E8%B5%84%E6%96%99/</url>
+    <content><![CDATA[<p>工欲善其事必先利其器之OkHttp解读</p>
+<p>[TOC]</p>
+<a id="more"></a>
+
+
+
+<h2 id="OSI参考模型以及TCP-IP模型"><a href="#OSI参考模型以及TCP-IP模型" class="headerlink" title="OSI参考模型以及TCP/IP模型"></a>OSI参考模型以及TCP/IP模型</h2><h3 id="什么是OSI，TCP-IP模型？"><a href="#什么是OSI，TCP-IP模型？" class="headerlink" title="什么是OSI，TCP/IP模型？"></a>什么是OSI，TCP/IP模型？</h3><p>​    OSI(Open System Interconnection)开放式系统互联，是计算机网络通信的基本框架；它将网络通信的工作分为7层，具体如下图左边蓝色部分所示；它更像是一个理论上的网络分层划分，对于我们编写代码来说并没有太多实际意义；它主要是提供了一系列“协议”，让网络通信更加标准；通过这些协议可以促进不同设备间的兼容性；促进标准化工作；结构上也更容易分割，这样做的好处就是利于实现和维护；就像平时我们使用的电源插板一样，这个行业里有一个标准，只要你的电视机等电器设备在做连接电源的插口时符合这些标准，那么你就不用担心买回来的电器无法适配家中的插座；</p>
+<p>​    TCP/IP模型则是将OSI参考模型以TCP/IP协议的方式重新划分，因为目前市场上几乎所有的网络通信都是基于TCP/IP协议；这个模型是对OSI模型的一个简化；主要分为5层（网络上也有针对TCP/IP模型分为4层的），其对应的简化方式如下图所示；</p>
+   <img src="\document\image-20200604160235149.png" alt="image-20200604160235149" style="zoom:80%;" />
+
+<p>​    OSI 7层模型功能描述：    </p>
+<p>​    应用层：它是整个层级划分中最高，也是直接面向用户的一层，具体的体现比如：浏览器，各种客户端程序等；</p>
+<p>​    表示层：主要负责数据处理，比如压缩/解压缩，加密/解密等；</p>
+<p>​    会话层：建立，管理，验证目标与目标之间的通信会话； </p>
+<p>​    传输层：建立目标机器与目标机器之间端口的连接并实现两个目标之间的数据传递方式；</p>
+<p>​    网络层：负责网络中目标机器之间的报文传输，这一层传输时依靠的是IP地址；比如路由器；解决跨网络的主机通信问题。</p>
+<p>​    数据链路层：负责网络之间相邻节点的可靠传输，传输依靠的是通过Mac地址；比如交换机；解决相邻主机通信问题。</p>
+<p>​    物理层：原始信号传输，数据传递介质，比如网线之类的；物理层的任务就是透明地传输比特流。</p>
+<p>​    举个通俗易懂的“栗子”来说明一下这7层的含义：</p>
+<p>​    我想写一封情书给一个漂亮姑娘；我最终的目的是想要通过书信里的文字让她能理解我的心意，但我们距离很远，又没有手机，所以我决定以写信的方式进行；再讲例子之前，要先注意一点，不要把应用层，表示层等这些划分的层级与具体的事物关联起来去做具体化想象，而应该“协议化”，“标准化”，后面有表述；</p>
+<p>1：    我现在想写信，内容就是“我爱你，漂亮的姑娘”，可是这么肉麻的话，我希望就我和她能看到具体的内容；在这里，可以把“我”看成某个应用，我要传递数据给另外一台机器上的某个应用，但是我传递给她的数据一定是根据某些“协议”来的（HTTP协议等），比如，她是一个文化程度不高的人，看不懂英文，如果我把信的具体内容写成英文，她看不懂，那么这封信即使传递出去了也没有价值；所以相当于我们很默契的约定好了，这封信应该用中文写；“我”这个应用，以及使用了中文写的文字，就属于应用层应该遵守的协议以及该干的事情；所以不能简单的将“我”这个应用来代表会话层，而应该将“我”这个应用，以及约定好的中文形式内容合起来并为会话层；</p>
+<p>2：我买了一个信封，将我写的内容放到信封里封起来；这个过程就是表示层，内容被我套进了信封进行了加密，并且在信封上写上了姑娘的地址，贴了邮票；而信封也是因为我遵守了写信这件事的一些俗成约定与协议，所以我不会随意用一个盒子或者纸盒将信放进去（我遵守的信封“协议”，以及使用信封加密这个过程都应该称为表示层，而不是单纯将信封理解为表示层），接下来就是交给下一层（会话层）处理；</p>
+<p>3：会话层，相当于邮局的部分管理系统，邮局拿到我的信之后，需要在邮票上盖章，只有盖完章之后才说明了这封信的“合法性”，这封信不管是在邮局的哪个网点，不管这个网点是100平的规模，还是只有一个10平米的小网点，看到这封信上有邮票，并且盖了章，就知道这封信是“合法”能通行的；所以会话层相当于一个管家，它负责对数据进行相关的验证管理，如果你贴了邮票，我盖了章你才能在整个邮局系统通行，不然就无法通行。</p>
+<p>4：传输层，会话层已经对我的信进行了“合法”校验等操作，传输层拿到这个“合法”数据后，开始进行装车，但是我不能随意用摩托车或者其他货车去装载这个信；而应该使用邮局内部系统规定的方式；比如，邮局内部的“协议”是，所有的信都必须使用带有邮政标识的绿色的货车进行运输，也只有这种货车才能不管在邮局的哪个网点都拥有通行的权力，不然其他网点按照规矩办事可能会拒绝你的信，因为你没按照我规定的货车运货；这里就相当于我已经把要发送的内容按照规定的方式都已经装载好了，这规定的方式遵守的协议就是TCP或者UDP；这一层说的端口与端口之间的连接;</p>
+<p>5：网络层，车已经装载完毕，邮局开始运送我的信，而邮局送信使用的是货运车，货运车根据我信封的地址，送到漂亮姑娘住的小区；而漂亮姑娘住的小区地址就相当于是IP地址；而这一层就是我们平常说的IP协议层；而这个地址按照协议就是必须先写省份，再写市之类的格式；</p>
+<p>6：数据链路层，当信被送到小区门口后，发现进不去，因为门卫（交换机）说，本小区的信都放在我这里，我再帮你送上去；数据链路层就是将比特流组合成字节，再将字节组合成帧，通过mac地址（姑娘的门牌号）进行差错检测；</p>
+<p>7：这封信在整个的传输过程中，走的是高速，还有其他道路，这些路和运送信的车都属于物理层，它们就是真正保证我的信能够安全快速送达的最底层保证；信号的最终传输都是通过物理层实现的；常用的一些设备比如网线；</p>
+<p><img src="%5Cdocument%5Cimage-20200603235709666.png" alt="image-20200603235709666"></p>
+<p><img src="%5Cdocument%5Cimage-20200603235859923.png" alt="image-20200603235859923"></p>
+<p>​            以上两张图片摘自网络</p>
+<p>从上面两张图我们也能看出，各层与各层之间都有一定“具体的物体”，这些物体在运行时又分别遵守了在该层应该遵守的协议；但这些模型终究是要对两个目标机器之间的数据传输；再来一张终极解释的图片，看看两个机器之间如何进行通信；</p>
+<img src=" \document\image-20200605155844648.png" alt="image-20200605155844648" style="zoom:80%;" />
+
+<h2 id="Socket（套接字）底层通信原理"><a href="#Socket（套接字）底层通信原理" class="headerlink" title="Socket（套接字）底层通信原理"></a>Socket（套接字）底层通信原理</h2><p>​    Socket通信一直给人一种非常神秘的感觉，如果要了解Socket就必须先从“宏观”的角度来理清楚它的原理；</p>
+<p>​    首先，Socket最开始是在Unix/Linux上使用的，之后由于其方便，高效，目前绝大部分市场上的应用都采用的是Socket；如果不熟悉Unix/Linux也没关系，但需要知道的是，在Unix/Linux中，可以认为“一切皆文件”，这里的文件的怎么解释？一个文件如果要进行修改必须先open操作，然后read/write操作，之后再close。那也就意味着Socket本质的通信方式也是打开某个“文件”，然后读取，然后关闭；</p>
+<p>​    另外，再说一下进程间通信，系统的每个进程都是在自己的“范围”内运行，如果两个进程要进行通信就必须通过“系统”提供的其他方式；比如Android中的进程间通信就是靠binder机制；而网络机器之间的应用数据传递也是“进程间通信”，只是之前不夸机器，这次夸了机器而已；如果对binder机制不是特别熟悉，那么我们可以先把整个Binder机制的底层操作逻辑看成一个文件。（在windows电脑上，我们可以通过局域网看到其他电脑分享的文件，同时也具备对该文件一定的操作权限）</p>
+<p>​    <img src="%5Cdocument%5Cimage-20200607210328783.png" alt="image-20200607210328783"></p>
+<p>​    如上图所示，某“文件”就代表了整个Binder机制的底层逻辑；A机器的A应用通过Binder机制，将自己的数据写入到A机器系统提供的“某文件”，然后A机器的“某文件”通过Socket的方式与B机器的“某文件”进行数据的传输，当B应用需要获取从A应用来的数据时，只需要实时监听B系统提供的“某文件”是否发生了改变，改变了什么即可；</p>
+<p>​    但这种“文件操作”对于上层应用来说是非常不友好的，所以系统使用了Scoket（套接字）的方式来帮助我们建立起他们之间的链接，开发者只需要关注Socket的API即可；</p>
+<p>​    <img src="%5Cdocument%5Cimage-20200607223648094.png" alt="image-20200607223648094"></p>
+<p>​        上图来源于网络，Socket就是封装了TCP/IP那一层；</p>
+<p>再来看一下Scoket的通信原理；</p>
+<p>​    <img src="%5Cdocument%5Cimage-20200607225642585.png" alt="image-20200607225642585"></p>
+<p>​    此图来源于网络：（原文链接：<a href="https://www.cnblogs.com/JavaHxm/p/10968210.html）" target="_blank" rel="noopener">https://www.cnblogs.com/JavaHxm/p/10968210.html）</a></p>
+<p>​    再根据之前我们说到的“宏观”方式来理解这幅图，TCP服务器有一个“文件”需要共享出去，并且时刻知道它发生了哪些改变，当发生了某些改变时，服务器对这个文件做相应的业务修改；为了能够实现共享，于是使用了Socket，Socket通过调用socket(),bind()，listen()，accept()方法来创建了一个“文件”，并且时刻监听着；TCP客户端则按照服务器的方式创建Socket并通过connect()方法去连接服务器的“文件”，不停的往“文件”中写入数据，服务器则根据“文件”里数据的变化来实行自己的业务逻辑；直到满足两者的交流后再通过close()方法进行关闭；想更加自信的了解不同的方法具体做了什么事情，可以访问上图底部提供的参考连接；</p>
+<h4 id="TCP的3次握手和四次挥手"><a href="#TCP的3次握手和四次挥手" class="headerlink" title="TCP的3次握手和四次挥手"></a>TCP的3次握手和四次挥手</h4><p>​    <img src="%5Cdocument%5Cimage-20200608154500610.png" alt="image-20200608154500610"></p>
+<p>​    3次握手解读</p>
+<p>​    第一次：客户端发送请求给服务器，请求包括syn=1，以及随机产生的seq数值；</p>
+<p>​    第二次：服务器收到客户端发来的信息后，先确认请求，然后向客户端发送ack number（ack等于seq+1），syn=1，ack=1；</p>
+<p>​    第三次：客户端检查ack是否正确，即第一次发过去的seq是不是已经加1了，以及ack是否为1，如果正确；客户端会再发送ack number（seq+1），ack=1，服务器确认seq值以及ack=1后则连接成功；</p>
+<p>​        <img src="%5Cdocument%5Cimage-20200608154541980.png" alt="image-20200608154541980"> </p>
+<p>​    4次挥手解读</p>
+<p>​    第一次：客户端发起中断连接请求，发送FIN报文；</p>
+<p>​    第二次：服务器接收到客户端的FIN后，回馈一个ACK给客户端，告诉客户端，你的请求我已经收到，但请等待一下，我可能还有数据要发给你；客户端进入FIN_WAIT状态（此时还没有关闭，只是客户端想断开连接）；</p>
+<p>​    第三次：服务器发送FIN给客户端，告诉客户端我已经发送完数据了，现在你可以关闭连接；</p>
+<p>​    第四次：客户端接收到服务器的FIN，再发送ACK给服务器，服务器收到ACK后，则断开连接；</p>
+<h4 id="为什么三次握手，确有4次挥手？"><a href="#为什么三次握手，确有4次挥手？" class="headerlink" title="为什么三次握手，确有4次挥手？"></a>为什么三次握手，确有4次挥手？</h4><p>​    因为服务器接到客户端发送的请求后，只需要校验请求是否合法，如果ok则可以直接连接；但挥手时有一个特殊情况需要处理，当客户端需要断开连接时，服务器还有可能有一些数据是没有发送给客户端的，当服务器接到客户端发送的断开请求时，必须要先确认自己的数据都已经发送完毕了，所以接收到客户端的请求时，服务器端回应两次；</p>
+<h2 id="Http协议"><a href="#Http协议" class="headerlink" title="Http协议"></a>Http协议</h2><h3 id="Http请求"><a href="#Http请求" class="headerlink" title="Http请求"></a>Http请求</h3><p><img src="%5Cdocument%5Cimage-20200609191055949.png" alt="image-20200609191055949"></p>
+<p>​                                                        GET方式请求    </p>
+<p>​    请求往往由请求行，请求头，请求体组成；</p>
+<p>​    请求行：请求方式Method，协议版本号组成；GET / HTTP/1.1</p>
+<p>​    请求头：访问的域名，用户代理等信息；Host:<a href="http://www.baidu.com" target="_blank" rel="noopener">www.baidu.com</a></p>
+<p>​    消息体：由于是Get方式，看不到请求体；</p>
+<p>​            <img src="%5Cdocument%5Cimage-20200609192006285.png" alt="image-20200609192006285"></p>
+<p>​                            POST方式请求</p>
+<p>​    请求行：请求方式Method，协议版本号组成；POST / HTTP/1.1</p>
+<p>​    请求头：访问的域名，用户代理等；Content-Length，Content-Type等；参数很多，请自行查证HTTP协议相关知识；</p>
+<p>​    消息体：跟请求头用一个空行隔开；主要是post类型时，记录传给服务器的参数；</p>
+<h3 id="Http响应"><a href="#Http响应" class="headerlink" title="Http响应"></a>Http响应</h3><p>​    <img src="%5Cdocument%5Cimage-20200609192420412.png" alt="image-20200609192420412"></p>
+<p>​            Http协议响应图</p>
+<p>​    响应一般分为响应行，响应头信息，响应体</p>
+<p>​    响应行：HTTP/1.1 200 ok（协议名称，版本，状态码，对应状态码的解释）</p>
+<p>​    响应头信息：类似请求头里的信息，有很多的参数约定；</p>
+<p>​    响应体：跟响应头以空行隔开；服务器根据要求返回的“文本”内容；</p>
+<h2 id="OkHttp源码解析"><a href="#OkHttp源码解析" class="headerlink" title="OkHttp源码解析"></a>OkHttp源码解析</h2><p>​    在分析OkHttp的核心流程已经核心类之前，我们先搞清楚两个概念，一个是OkHttpClient和Request在创建时所使用的构建者模式；另外一个则是负责响应处理的拦截器模式；</p>
+<h3 id="OkHttpClient-Request的构建者模式解析"><a href="#OkHttpClient-Request的构建者模式解析" class="headerlink" title="OkHttpClient/Request的构建者模式解析"></a>OkHttpClient/Request的构建者模式解析</h3><h4 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h4><p>​    构建者（又称建造者）模式允许我们使用多个简单的对象一步一步构建成一个复杂的对象。</p>
+<h4 id="概念解释"><a href="#概念解释" class="headerlink" title="概念解释"></a>概念解释</h4><p>​    如果你要装修房子，你就会要考虑这个房子的整体设计怎么做，用地中海风格？欧美风格？纯中式风格？墙面是刷白色的漆？贴瓷砖？还是用其他颜色？水电安装怎么处理？防水怎么处理？主卧怎么设计？阳台怎么设计？当你开始装修的时候，你就发现你要处理的事情实在太多，所以你想了一个办法，找了一家装修公司的人帮你做设计。他们给你提供了一些默认的参数，比如，就用纯中式的风格，墙面使用硅藻泥，防水使用A方案设计，水电使用B方案设计等等；你觉得他们给你提供的默认风格都挺好的，唯一你觉得不好的就是他们这一整套设计里，阳台用的是“封闭式”设计，而你希望用“开放式”设计，所以你决定其他的都使用默认值，唯独这个阳台使用你提出的“开放式”设计。</p>
+<p>​    优点：我们不需要再关心装修房子时的每个细节；因为它提供了默认值；</p>
+<p>​    缺点：除了装修施工的钱，我们还需要额外付出装修设计的钱；</p>
+<p>接下来再将这个例子带入到OkHttp源码中去看待：</p>
+<h4 id="为什么OkHttpClient以及Request使用构建者模式来创建？"><a href="#为什么OkHttpClient以及Request使用构建者模式来创建？" class="headerlink" title="为什么OkHttpClient以及Request使用构建者模式来创建？"></a>为什么OkHttpClient以及Request使用构建者模式来创建？</h4><p>​    当一个类的内部数据过于复杂的时候，比如OkHttpClient中包含Dispatcher，Proxy，ProxySelector，CookieJar，Cache，SocketFactory等等对象，Request中也包含了HttpUrl，method，Headers，RequestBody，tag等对象；这些对象说多不多，说少也不少，但它们都有一个共同点：很多参数都是不需要我们传递的，比如这两个对象在具体构建时的代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">OkHttpClient okHttpClient &#x3D; new OkHttpClient.Builder().build();</span><br><span class="line">Request request &#x3D; new Request.Builder().url(url).build();</span><br></pre></td></tr></table></figure>
+
+<p>OkHttpClient和Request中虽然包含了多个参数，但这些参数对于用户来说，是可传可不传的，在上述代码中只有在构建Requset时通过Builder.url(url).build()传入了一个url参数；这就相当于，如果我们不传入参数，构建者模式会帮我们创建默认的参数；如果传入参数，构建者模式则会用我们传入的替换默认的参数；</p>
+<p>​    优点：我们不再关注OkHttpClient/Request的构建细节，不用每次构建时都传入大量参数，只需要传递我们关心的参数，非常易用；</p>
+<p>​    缺点：整个代码看上去会有“代码冗余”的感觉，对于不了解设计模式的人来说会觉得生涩难懂；</p>
+<h4 id="构建者模式简易代码实现"><a href="#构建者模式简易代码实现" class="headerlink" title="构建者模式简易代码实现"></a>构建者模式简易代码实现</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public class House3 &#123;</span><br><span class="line"></span><br><span class="line">    private double height;</span><br><span class="line">    private double width;</span><br><span class="line">    private String color;</span><br><span class="line"></span><br><span class="line">    public House3(Builder builder) &#123;</span><br><span class="line">        this.height &#x3D; builder.height;</span><br><span class="line">        this.width &#x3D; builder.width;</span><br><span class="line">        this.color &#x3D; builder.color;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    public static final class Builder&#123;</span><br><span class="line">        double height;</span><br><span class="line">        double width;</span><br><span class="line">        String color;</span><br><span class="line"></span><br><span class="line">        public Builder()&#123;</span><br><span class="line">            this.height &#x3D; 100;</span><br><span class="line">            this.width &#x3D; 100;</span><br><span class="line">            this.color &#x3D; &quot;red&quot;;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        public Builder addHeight(double height) &#123;</span><br><span class="line">            this.height &#x3D; height;</span><br><span class="line">            return this;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        public Builder addWidth(double width) &#123;</span><br><span class="line">            this.width &#x3D; width;</span><br><span class="line">            return this;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        public Builder addColor(String color) &#123;</span><br><span class="line">            this.color &#x3D; color;</span><br><span class="line">            return this;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        public House3 build()&#123;</span><br><span class="line">            return new House3(this);</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    @Override</span><br><span class="line">    public String toString() &#123;</span><br><span class="line">        return &quot;House&#123;&quot; +</span><br><span class="line">                &quot;height&#x3D;&quot; + height +</span><br><span class="line">                &quot;, width&#x3D;&quot; + width +</span><br><span class="line">                &quot;, color&#x3D;&#39;&quot; + color + &#39;\&#39;&#39; +</span><br><span class="line">                &#39;&#125;&#39;;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+
+<p>上述代码就是一个非常简易的构建者模式代码，我们会发现class Builder和House3内部的属性完全一致，会给人一种“代码冗余”的感觉，而且不懂该设计模式的人更会觉得生涩；</p>
+<h3 id="OkHttp责任链模式解析"><a href="#OkHttp责任链模式解析" class="headerlink" title="OkHttp责任链模式解析"></a>OkHttp责任链模式解析</h3><h4 id="基本概念-1"><a href="#基本概念-1" class="headerlink" title="基本概念"></a>基本概念</h4><p>​    责任链模式（Chain of Responsibility Pattern）为请求创建一个接收者对象的链。这种模式让请求的发送者和接收者进行解耦。在这种模式中，通常每个接收者都包含对另一个接收者的引用。如果当前接收者无法处理该请求，则会传递到下一个接收者，依此类推；</p>
+<h4 id="概念解释-1"><a href="#概念解释-1" class="headerlink" title="概念解释"></a>概念解释</h4><p>​    如果你非常想念你异地的女朋友，你决定这个周末无论如何都要去她的城市见她，于是你查询了去她城市的交通方式：飞机，高铁，大巴，租车，骑摩托这五种方式（方便的程度按照顺序来），于是你先买飞机票，如果买到了，你就不考虑其他方式，如果没买到，就选择买高铁，如果买到了高铁票就不考虑大巴，如果高铁票也没有，则考虑大巴，如果买到大巴票就不选择租车，如果买不到再租车……依次类推；只要在某一个节点被处理了（比如买到了飞机票），就不再继续选择后面的节点，反之则继续走向下一个节点。</p>
+<p>​    优点：我们拥有多种“选择”，只要其中一个满足，就不用再继续深挖，浪费更多的时间；</p>
+<p>​    缺点：需要先耗费一定的时间，做出一个预想方案以及方案的各个节点；如果不做方案，直接购买了飞机票，而且恰好买到了，则时间更省，但如果买不到，你就得重新去规划接下来怎么办。可能浪费更多的时间；</p>
+<h4 id="责任链简易代码实现"><a href="#责任链简易代码实现" class="headerlink" title="责任链简易代码实现"></a>责任链简易代码实现</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public interface IBaseTask &#123;</span><br><span class="line">    &#x2F;&#x2F; 参数1：任务节点是否有能力执行；参数2：下一个任务节点</span><br><span class="line">    public void doAction(String isTask,IBaseTask iBaseTask);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public class ChainManager implements IBaseTask&#123;</span><br><span class="line">    private List&lt;IBaseTask&gt; iBaseTaskList &#x3D; new ArrayList&lt;&gt;();</span><br><span class="line">    public void addTask(IBaseTask iBaseTask)&#123;</span><br><span class="line">        iBaseTaskList.add(iBaseTask);</span><br><span class="line">    &#125;</span><br><span class="line">    private int index &#x3D; 0;</span><br><span class="line">    @Override</span><br><span class="line">    public void doAction(String isTask, IBaseTask iBaseTask) &#123;</span><br><span class="line">        if(iBaseTaskList.isEmpty())&#123;</span><br><span class="line">            &#x2F;&#x2F; 抛出异常</span><br><span class="line">        &#125;</span><br><span class="line">        if(index &gt;&#x3D; iBaseTaskList.size())&#123;</span><br><span class="line">            return;</span><br><span class="line">        &#125;</span><br><span class="line">        IBaseTask iBaseTaskResult &#x3D; iBaseTaskList.get(index);&#x2F;&#x2F; 第一次取得是taskone</span><br><span class="line">        index++;</span><br><span class="line">        iBaseTaskResult.doAction(isTask,iBaseTask);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public class TaskOne implements IBaseTask&#123;</span><br><span class="line">    @Override</span><br><span class="line">    public void doAction(String isTask, IBaseTask iBaseTask) &#123;</span><br><span class="line">        if(&quot;no&quot;.equals(isTask))&#123;</span><br><span class="line">            System.out.println(&quot;拦截器任务节点1处理了.....&quot;);</span><br><span class="line">            return;</span><br><span class="line">        &#125;else&#123;</span><br><span class="line">            iBaseTask.doAction(isTask,iBaseTask);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>​    这个简易代码实现，只是做了一个TaskOne类，如果各位同学需要添加多个Task，可按照TaskOne类的实现方式，多实现几个；</p>
+<p>最终调用方式：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ChainManager chainManager &#x3D; new ChainManager();</span><br><span class="line">chainManager.addTask(new TaskOne());</span><br><span class="line">chainManager.addTask(new TaskTwo());</span><br><span class="line">chainManager.addTask(new TaskThree());</span><br><span class="line">chainManager.doAction(&quot;ok&quot;,chainManager);</span><br></pre></td></tr></table></figure>
+
+<p>接下来再将这个例子带入到OkHttp源码中去看待：</p>
+<h4 id="为什么OkHttp使用责任链模式处理响应"><a href="#为什么OkHttp使用责任链模式处理响应" class="headerlink" title="为什么OkHttp使用责任链模式处理响应"></a>为什么OkHttp使用责任链模式处理响应</h4><p>​    当一个请求从OkHttp框架发出时，根据业务或者后台一些设置，我们都有可能进行一些其他处理；比如：请求在发送出去时，我们可以先验证这个请求是否合理；合理则继续发送，在发送的过程中，又有可能先去判断一下这个请求是否有现成的缓存数据，如果有则不去请求服务器，而是直接获取本地的缓存数据。这样做的好处是能在请求发出去之前处理更多的相关验证，缓存等工作，节省了去服务器请求所带来的流量，时间消耗；</p>
+<p>​    下面代码块为OkHttp添加拦截器的过程；已经做了相应的注释；搞定了责任链模式后，就能更加清晰的分析出整个拦截器的调用过程；</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Response getResponseWithInterceptorChain() throws IOException &#123;</span><br><span class="line">    &#x2F;&#x2F; Build a full stack of interceptors.</span><br><span class="line">    List&lt;Interceptor&gt; interceptors &#x3D; new ArrayList&lt;&gt;();</span><br><span class="line">    &#x2F;&#x2F; 添加自定义的拦截器，比如发送请求的时候，我要先验证发出去的参数是否按照客户端与服务器的约定进行了适当包装与加密；如果添加了则继续，没通过则直接打回；</span><br><span class="line">    interceptors.addAll(client.interceptors());</span><br><span class="line">    &#x2F;&#x2F; OkHttp自带的重试与重定向拦截器；</span><br><span class="line">    interceptors.add(retryAndFollowUpInterceptor);</span><br><span class="line">    &#x2F;&#x2F; OkHttp自带的桥拦截器</span><br><span class="line">    interceptors.add(new BridgeInterceptor(client.cookieJar()));</span><br><span class="line">    &#x2F;&#x2F; OkHttp自带的缓存拦截器</span><br><span class="line">    interceptors.add(new CacheInterceptor(client.internalCache()));</span><br><span class="line">    &#x2F;&#x2F; OkHttp自带的链接拦截器</span><br><span class="line">    interceptors.add(new ConnectInterceptor(client));</span><br><span class="line">    if (!forWebSocket) &#123;</span><br><span class="line">      interceptors.addAll(client.networkInterceptors());</span><br><span class="line">    &#125;</span><br><span class="line">    &#x2F;&#x2F; OkHttp自带的请求服务拦截器</span><br><span class="line">    interceptors.add(new CallServerInterceptor(forWebSocket));</span><br><span class="line">	&#x2F;&#x2F; 根据责任链模式的概念，每个拦截器都需要与下一个拦截器有引用，以下代码就是为了能够让添加进来的拦截器依次执行；</span><br><span class="line">    Interceptor.Chain chain &#x3D; new RealInterceptorChain(interceptors, null, null, null, 0,</span><br><span class="line">        originalRequest, this, eventListener, client.connectTimeoutMillis(),</span><br><span class="line">        client.readTimeoutMillis(), client.writeTimeoutMillis());</span><br><span class="line"></span><br><span class="line">    return chain.proceed(originalRequest);</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>
+
+<p>​    优点：如果我们要添加新的拦截点，只需要自定义自己的拦截器，通过OkHttpClient方便的add进去；</p>
+<p>​    缺点：不懂责任链模式的开发者，会觉得这个责任链模式代码的调用关系难以梳理；</p>
+<h3 id="OkHttp主线流程分析"><a href="#OkHttp主线流程分析" class="headerlink" title="OkHttp主线流程分析"></a>OkHttp主线流程分析</h3><h4 id="第一条主线-入队操作"><a href="#第一条主线-入队操作" class="headerlink" title="第一条主线-入队操作"></a>第一条主线-入队操作</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;&#x2F; 构建OkHttpClient</span><br><span class="line">OkHttpClient okHttpClient &#x3D; new OkHttpClient.Builder().build();</span><br><span class="line">&#x2F;&#x2F; 构建Request</span><br><span class="line">Request request &#x3D; new Request.Builder().url(url).build();</span><br><span class="line">&#x2F;&#x2F; 通过request创建RealCall对象，RealCall为Call的具体实现类</span><br><span class="line">Call call &#x3D; okHttpClient.newCall(request);</span><br><span class="line">&#x2F;&#x2F; 入队，添加回调</span><br><span class="line">call.enqueue(new Callback() &#123; &#x2F;&#x2F; 此处省略Callback回调函数 &#125;</span><br></pre></td></tr></table></figure>
+
+<p><img src="%5Cdocument%5Cimage-20200606173627152.png" alt="image-20200606173627152"></p>
+<p>​                                                                        入队流程图</p>
+<h4 id="第二条主线-网络访问操作"><a href="#第二条主线-网络访问操作" class="headerlink" title="第二条主线-网络访问操作"></a>第二条主线-网络访问操作</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Response getResponseWithInterceptorChain() throws IOException &#123;</span><br><span class="line">    &#x2F;&#x2F; Build a full stack of interceptors.</span><br><span class="line">    List&lt;Interceptor&gt; interceptors &#x3D; new ArrayList&lt;&gt;();</span><br><span class="line">    &#x2F;&#x2F; 添加自定义拦截器</span><br><span class="line">    interceptors.addAll(client.interceptors());</span><br><span class="line">    &#x2F;&#x2F; 重试和重定向拦截器</span><br><span class="line">    interceptors.add(retryAndFollowUpInterceptor);</span><br><span class="line">    &#x2F;&#x2F; 桥拦截器</span><br><span class="line">    interceptors.add(new BridgeInterceptor(client.cookieJar()));</span><br><span class="line">    &#x2F;&#x2F; 缓存拦截器</span><br><span class="line">    interceptors.add(new CacheInterceptor(client.internalCache()));</span><br><span class="line">    &#x2F;&#x2F; 连接拦截器</span><br><span class="line">    interceptors.add(new ConnectInterceptor(client));</span><br><span class="line">    if (!forWebSocket) &#123;</span><br><span class="line">      interceptors.addAll(client.networkInterceptors());</span><br><span class="line">    &#125;</span><br><span class="line">    &#x2F;&#x2F; 请求服务器拦截器</span><br><span class="line">    interceptors.add(new CallServerInterceptor(forWebSocket));</span><br><span class="line">	&#x2F;&#x2F; 责任链设计模式调用代码</span><br><span class="line">    Interceptor.Chain chain &#x3D; new RealInterceptorChain(interceptors, null, null, null, 0,</span><br><span class="line">        originalRequest, this, eventListener, client.connectTimeoutMillis(),</span><br><span class="line">        client.readTimeoutMillis(), client.writeTimeoutMillis());</span><br><span class="line">    return chain.proceed(originalRequest);</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>
+
+<p>​    <img src="%5Cdocument%5Cimage-20200606213300510.png" alt="image-20200606213300510"></p>
+<p>​                                网络访问操作流程图</p>
+<h4 id="运行请求的线程池解析"><a href="#运行请求的线程池解析" class="headerlink" title="运行请求的线程池解析"></a>运行请求的线程池解析</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public synchronized ExecutorService executorService() &#123;</span><br><span class="line">  if (executorService &#x3D;&#x3D; null) &#123;</span><br><span class="line">    executorService &#x3D; new ThreadPoolExecutor(0, Integer.MAX_VALUE, 60, TimeUnit.SECONDS,</span><br><span class="line">        new SynchronousQueue&lt;Runnable&gt;(), Util.threadFactory(&quot;OkHttp Dispatcher&quot;, false));</span><br><span class="line">  &#125;</span><br><span class="line">  return executorService;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>​    核心线程数：0，最大的线程数：Integer.MAX_VALUE;</p>
+<p>​    3/4参数：当线程池中的线程数量大于核心线程数，空闲线程就会等待60s才会被终止，如果小于则会立即终止；</p>
+<p>​    SynchronousQueue：阻塞队列；这个队列没有任何内部容量；（注意：这个定义也有点模糊，因为队列还是存在取和删除的操作）</p>
+<p>​    先确认一个概念，线程池中拥有自己的内部队列，一般情况下，初始化线程池的时候会创建空闲的线程，如果有任务进来，可以使用线程池中的空闲线程执行任务，执行完又变成空闲线程，这样就是为了减少线程的创建和销毁，提高性能；而这个内部队列就是一个缓冲地带，如果没有足够的线程去处理任务时，则将任务放到队列中，按照队列先进先出的方式来执行；但这样就有一个问题，如果我提交的任务希望它能够立即执行怎么办？这就是使用SynchronousQueue的原因；由于SynchronousQueue内部没有任何容量，也就意味着当任务过多的时候，线程池必须给我开启新线程，而不是放入队列里等待；但这种情况下就需要将线程池的最大线程池设置为Integer.MAX_VALUE，以防止新的任务无法被处理；</p>
+<h4 id="为什么OkHttp的访问速度更快？"><a href="#为什么OkHttp的访问速度更快？" class="headerlink" title="为什么OkHttp的访问速度更快？"></a>为什么OkHttp的访问速度更快？</h4><p>​    那么为什么OkHttp的请求线程池要这么设计呢？</p>
+<p>​    根本就在于OkHttp在处理请求的时候使用了两个队列来维护请求，在这种情况下更加的可控，而不是自己维护完队列，线程池里再维护一次它内部的队列，这样会导致请求可能出现相应的延迟；这也是为什么OkHttp的请求速度会更快的原因之一；</p>
+<p>​    其他原因：</p>
+<p>​    1：OkHttp使用Okio进行数据传输，Okio封装了io/nio；性能更高；</p>
+<p>​    2：线程池和连接池的使用；</p>
+<p>​    3：keep-alive机制的支持；（其实这个在其他框架也能设置）</p>
+<h4 id="拦截器详解"><a href="#拦截器详解" class="headerlink" title="拦截器详解"></a>拦截器详解</h4><h5 id="重试和重定向拦截器"><a href="#重试和重定向拦截器" class="headerlink" title="重试和重定向拦截器"></a>重试和重定向拦截器</h5><p>​    RetryAndFollowUpInterceptor：该拦截器中主要创建了一个StreamAllocation对象，这个对象负责管理Socket连接池（这个连接池中的参数未来可能会更改（来自官方说明），目前最多可容纳的是5个空闲连接，保持5分钟）和请求地址（比如是否是Htpps）；同时负责请求的重试和重定向工作；</p>
+<h5 id="桥拦截器"><a href="#桥拦截器" class="headerlink" title="桥拦截器"></a>桥拦截器</h5><p>​    BridgeInterceptor：该拦截器主要负责在request上添加请求头配置信息，比如content-type，Accept-Encoding等等；</p>
+<h5 id="缓存拦截器"><a href="#缓存拦截器" class="headerlink" title="缓存拦截器"></a>缓存拦截器</h5><p>​    CacheInterceptor：该拦截器主要为了流量以及访问速度上的优化，如果有缓存则获取缓存，不再去访问服务器，同时它也需要对缓存进行维护；</p>
+<h5 id="连接拦截器"><a href="#连接拦截器" class="headerlink" title="连接拦截器"></a>连接拦截器</h5><p>​    ConnectInterceptor：负责与服务器进行连接，该拦截器获取了StreamAllocation对象，并得到一个RealConnection（Socket连接的封装）；</p>
+<h5 id="请求服务器拦截器"><a href="#请求服务器拦截器" class="headerlink" title="请求服务器拦截器"></a>请求服务器拦截器</h5><p>​    CallServerInterceptor：负责向服务器写入请求数据，读取服务器发送过来的数据，并使用构建者模式将返回的数据构建成Response对象；</p>
+<h4 id="OkHttp问题"><a href="#OkHttp问题" class="headerlink" title="OkHttp问题"></a>OkHttp问题</h4><p>​    1：请简单说一下你对OkHttp的理解；（请参考上述资料，想一想如何将上述知识点融合成你自己的说法，让面试官觉得你条理清晰）</p>
+<h1 id="工欲善其事必先利其器之Glide解读"><a href="#工欲善其事必先利其器之Glide解读" class="headerlink" title="工欲善其事必先利其器之Glide解读"></a>工欲善其事必先利其器之Glide解读</h1><h2 id="Glide流程分析"><a href="#Glide流程分析" class="headerlink" title="Glide流程分析"></a>Glide流程分析</h2><h3 id="第一条主线"><a href="#第一条主线" class="headerlink" title="第一条主线"></a>第一条主线</h3><p>​    加入队列流程：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">RequestManager with &#x3D; Glide.with(this);</span><br><span class="line">RequestBuilder&lt;Drawable&gt; load &#x3D; with.load(url);</span><br><span class="line">load.into(iv);   &#x2F;&#x2F; 前面的暂时先不看，当调用into方法后，说明加载图片的请求才真正开始</span><br></pre></td></tr></table></figure>
+
+<p>继续调用</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">return into(</span><br><span class="line">    glideContext.buildImageViewTarget(view, transcodeClass),</span><br><span class="line">    &#x2F;*targetListener&#x3D;*&#x2F; null,</span><br><span class="line">    requestOptions);</span><br></pre></td></tr></table></figure>
+
+<p>继续跟踪，会发现以下代码</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">requestManager.clear(target);</span><br><span class="line">target.setRequest(request);</span><br><span class="line">requestManager.track(target, request);&#x2F;&#x2F;发送请求开始的地方</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">void track(Target&lt;?&gt; target, Request request) &#123;</span><br><span class="line">  targetTracker.track(target);</span><br><span class="line">  requestTracker.runRequest(request);&#x2F;&#x2F;从名字看叫运行请求</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>继续跟踪</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">通过该方法得知Glide也有两个队列；运行队列和等待队列；</span><br><span class="line">public void runRequest(Request request) &#123;</span><br><span class="line">  requests.add(request);&#x2F;&#x2F;加入运行队列；</span><br><span class="line">  if (!isPaused) &#123;</span><br><span class="line">    request.begin();&#x2F;&#x2F;开始执行</span><br><span class="line">  &#125; else &#123;</span><br><span class="line">    pendingRequests.add(request);&#x2F;&#x2F;加入等待队列</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="第二条主线"><a href="#第二条主线" class="headerlink" title="第二条主线"></a>第二条主线</h3><p>请求如何运行？</p>
+<p>在第一条主线中，request.begin()方法就是真正开始执行请求的时候；先找到request的实现类：SingleRequest，找到其begin方法；</p>
+<p>为什么找到的是SingleRequest？</p>
+<p>在第一条主线的RequestBuilder.into方法中有一句代码；</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Request request &#x3D; buildRequest(target, targetListener, options);</span><br></pre></td></tr></table></figure>
+
+<p>继续跟踪它</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">buildRequestRecursive() 找到构建request的方法；</span><br></pre></td></tr></table></figure>
+
+<p>在该方法中，又能跟踪到</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Request mainRequest &#x3D; buildThumbnailRequestRecursive()</span><br></pre></td></tr></table></figure>
+
+<p>继续跟踪</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Request fullRequest &#x3D;</span><br><span class="line">    obtainRequest(</span><br><span class="line">        target,</span><br><span class="line">        targetListener,</span><br><span class="line">        requestOptions,</span><br><span class="line">        coordinator,</span><br><span class="line">        transitionOptions,</span><br><span class="line">        priority,</span><br><span class="line">        overrideWidth,</span><br><span class="line">        overrideHeight);</span><br></pre></td></tr></table></figure>
+
+<p>上述代码块最终调用的是SingleRequest.obtain(）方法，从而得到一个SingleRequest对象；所以能得出结论，request.begin（）方法被调用时，即调用了SingleRequest的begin方法；继续跟踪begin方法，会发现onSizeReady方法；</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">onSizeReady(overrideWidth, overrideHeight);</span><br></pre></td></tr></table></figure>
+
+<p>在begin方法中跟踪到engine.load方法，如下（只抽取了部分代码）：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x2F;&#x2F; 从活动缓存中获取</span><br><span class="line">EngineResource&lt;?&gt; active &#x3D; loadFromActiveResources(key, isMemoryCacheable);</span><br><span class="line">    if (active !&#x3D; null) &#123;</span><br><span class="line">      cb.onResourceReady(active, DataSource.MEMORY_CACHE);</span><br><span class="line">      if (Log.isLoggable(TAG, Log.VERBOSE)) &#123;</span><br><span class="line">        logWithTimeAndKey(&quot;Loaded resource from active resources&quot;, startTime, key);</span><br><span class="line">      &#125;</span><br><span class="line">      return null;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#x2F;&#x2F; 从内存缓存中获取</span><br><span class="line">    EngineResource&lt;?&gt; cached &#x3D; loadFromCache(key, isMemoryCacheable);</span><br><span class="line">    if (cached !&#x3D; null) &#123;</span><br><span class="line">      cb.onResourceReady(cached, DataSource.MEMORY_CACHE);</span><br><span class="line">      if (Log.isLoggable(TAG, Log.VERBOSE)) &#123;</span><br><span class="line">        logWithTimeAndKey(&quot;Loaded resource from cache&quot;, startTime, key);</span><br><span class="line">      &#125;</span><br><span class="line">      return null;</span><br><span class="line">    &#125;</span><br><span class="line">&#x2F;&#x2F; 硬盘缓存，硬盘缓存也是io操作，所以也使用了线程池；动画线程池</span><br><span class="line">    EngineJob&lt;?&gt; current &#x3D; jobs.get(key, onlyRetrieveFromCache);</span><br><span class="line">    if (current !&#x3D; null) &#123;</span><br><span class="line">      current.addCallback(cb);</span><br><span class="line">      if (Log.isLoggable(TAG, Log.VERBOSE)) &#123;</span><br><span class="line">        logWithTimeAndKey(&quot;Added to existing load&quot;, startTime, key);</span><br><span class="line">      &#125;</span><br><span class="line">      return new LoadStatus(cb, current);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    EngineJob&lt;R&gt; engineJob &#x3D;</span><br><span class="line">        engineJobFactory.build(</span><br><span class="line">            key,</span><br><span class="line">            isMemoryCacheable,</span><br><span class="line">            useUnlimitedSourceExecutorPool,</span><br><span class="line">            useAnimationPool,</span><br><span class="line">            onlyRetrieveFromCache);</span><br><span class="line"></span><br><span class="line">    DecodeJob&lt;R&gt; decodeJob &#x3D;</span><br><span class="line">        decodeJobFactory.build(</span><br><span class="line">            glideContext,</span><br><span class="line">            model,</span><br><span class="line">            key,</span><br><span class="line">            signature,</span><br><span class="line">            width,</span><br><span class="line">            height,</span><br><span class="line">            resourceClass,</span><br><span class="line">            transcodeClass,</span><br><span class="line">            priority,</span><br><span class="line">            diskCacheStrategy,</span><br><span class="line">            transformations,</span><br><span class="line">            isTransformationRequired,</span><br><span class="line">            isScaleOnlyOrNoTransform,</span><br><span class="line">            onlyRetrieveFromCache,</span><br><span class="line">            options,</span><br><span class="line">            engineJob);</span><br><span class="line"></span><br><span class="line">    jobs.put(key, engineJob);</span><br><span class="line"></span><br><span class="line">    engineJob.addCallback(cb);</span><br><span class="line">    engineJob.start(decodeJob); &#x2F;&#x2F;具体的加载，engineJob为加载管理类，decodeJob则为将返回的图片数据进行编码管理的类；</span><br></pre></td></tr></table></figure>
+
+<p>调用engineJob.start()方法后，则会执行以下代码：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">public void start(DecodeJob&lt;R&gt; decodeJob) &#123;</span><br><span class="line">    this.decodeJob &#x3D; decodeJob;</span><br><span class="line">    GlideExecutor executor &#x3D; decodeJob.willDecodeFromCache()</span><br><span class="line">        ? diskCacheExecutor</span><br><span class="line">        : getActiveSourceExecutor();</span><br><span class="line">    executor.execute(decodeJob);</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>
+
+<p>继续跟踪找到DecodeJob的run方法；</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">DecodeJob.run() 继续调用 runWrapped(); 再继续调用getNextGenerator()</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">private DataFetcherGenerator getNextGenerator() &#123;</span><br><span class="line">    switch (stage) &#123;</span><br><span class="line">      case RESOURCE_CACHE:</span><br><span class="line">        return new ResourceCacheGenerator(decodeHelper, this);</span><br><span class="line">      case DATA_CACHE:</span><br><span class="line">        return new DataCacheGenerator(decodeHelper, this);</span><br><span class="line">      case SOURCE:</span><br><span class="line">      &#x2F;&#x2F; 根据主线我们目前都先不去处理跟Cache相关的类，直接进入SourceGenerator；这里使用了设计模式-状态模式；（请自行根据第二节内容进行查询）</span><br><span class="line">        return new SourceGenerator(decodeHelper, this);</span><br><span class="line">      case FINISHED:</span><br><span class="line">        return null;</span><br><span class="line">      default:</span><br><span class="line">        throw new IllegalStateException(&quot;Unrecognized stage: &quot; + stage);</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure>
+
+<p>继续跟踪到SourceGenerator类中的startNext方法；</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">loadData.fetcher.loadData(helper.getPriority(), this);</span><br></pre></td></tr></table></figure>
+
+<p>根据fetcher找到HttpUrlFetcher，并找到对应的loadData方法；最终发现Glide是通过HttpUrlConnection访问的服务器，并返回最终的stream；</p>
+<p>问题来了？我怎么知道是这个类的？为什么 不是其他类？  </p>
+<p>在这里代码就看不懂了，怎么办？猜测；</p>
+<p>既然应该不是再继续从缓存拿，而应该要去访问网络了；所以找到具体访问网络的；发现找不到，怎么办？</p>
+<p><img src="%5Cdocument%5Cimage-20200610173400666.png" alt="image-20200610173400666"></p>
+<p>找它的实现类，有一个HttpUrlFetcher，那它在哪里初始化的？</p>
+<p><img src="%5Cdocument%5Cimage-20200610173639930.png" alt="image-20200610173639930"></p>
+<p>通过Find Usages找到哪里调用了；找到了HttpGlideUrlLoader；</p>
+<p>再看这个方法  HttpGlideUrlLoader哪里调用了；</p>
+<p><img src="%5Cdocument%5Cimage-20200610174104207.png" alt="image-20200610174104207"></p>
+<p>找到了Glide，</p>
+<p>继续网上寻找，找打了Glide种的build方法 ，找就能找到Glide.get(context);方法</p>
+<h3 id="第三条主线"><a href="#第三条主线" class="headerlink" title="第三条主线"></a>第三条主线</h3><p>队列怎么维护的？在MainActivity中我们调用了如下代码：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">RequestManager with &#x3D; Glide.with(this);</span><br></pre></td></tr></table></figure>
+
+<p>继续跟踪到</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">getRetriever(activity).get(activity)&#x2F;&#x2F;这里得到了一个RequestManagerRetriever对象,再通过RequestManagerRetriever调用get方法得到RequestManager</span><br></pre></td></tr></table></figure>
+
+<p>继续</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">androidx.fragment.app.FragmentManager fm &#x3D; activity.getSupportFragmentManager();</span><br><span class="line">return this.supportFragmentGet(activity, fm, (Fragment)null);</span><br></pre></td></tr></table></figure>
+
+<p>通过this.supportFragmentGet方法（如下代码），最终我们得到SupportRequestManagerFragment对象；</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">private RequestManager supportFragmentGet(@NonNull Context context, @NonNull androidx.fragment.app.FragmentManager fm, @Nullable Fragment parentHint) &#123;</span><br><span class="line">    SupportRequestManagerFragment current &#x3D; this.getSupportRequestManagerFragment(fm, parentHint);&#x2F;&#x2F;这段代码的内部如果能够得到Fragment就得到，得不到就重新new一个，并且这个fragment中没有进行任何的UI处理；</span><br><span class="line">    RequestManager requestManager &#x3D; current.getRequestManager();</span><br><span class="line">    if (requestManager &#x3D;&#x3D; null) &#123;</span><br><span class="line">        Glide glide &#x3D; Glide.get(context);</span><br><span class="line">        requestManager &#x3D; this.factory.build(glide, current.getGlideLifecycle(), current.getRequestManagerTreeNode(), context);</span><br><span class="line">        current.setRequestManager(requestManager);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    return requestManager;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>得到Fragment对象后，再将RequestManager对象赋值进去，如果RequestManager为空，则帮助创建；</p>
+<p>而RequestManager对象则是生命周期管理的重要一环，因为它实现了LifecycleListener接口，并且在创建RequestManager的时候，会将这个接口设置给自己；也就意味着，Glide创建了一个无UI的fragment，这个fragment又与RequestManager进行绑定；当用户的activity或者fragment被调用，系统会自动调用fragment的生命周期方法；而生命周期方法中又会回调LifecycleListener的方法，进而调用RequestManager，RequestManager则也拥有了生命周期；</p>
+<p>当RequestManager的onStart方法被调用后，会通过一系列的调用，将运行中的请求全部放开，进行访问；</p>
+<p>当onStop方法被调用时，则将运行中队列的数据取出来，如果当前请求正在运行则暂停，然后将所有的数据从运行队列中添加到等待队列中去；</p>
+<p>当onDestory方法被调用时，则将运行队列和等待队列中的数据全部清除；再将监听移除；将requestManager从Glide中的绑定关系解除；</p>
+]]></content>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+</search>
